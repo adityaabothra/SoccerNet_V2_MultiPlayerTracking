@@ -27,8 +27,8 @@ The object classes are not taken into account in this challenge or the evaluatio
 For the benchmark and challenge, Baidu considers HOTA as the main metric. More specifically, this metric can be decomposed into two components: DetA and AssA, focusing on detection and association accuracy, respectively.
 
 # Team Members 
-Tyler Banks Task : # Image and Video processing for segmentation, Tracking AssA
-Aditya Bothra Task : Occlusion, Architecture Design for Deep Learning, DetA
+# Tyler Banks Task : # Image and Video processing for segmentation, Tracking AssA
+# Aditya Bothra Task : Occlusion, Architecture Design for Deep Learning, DetA
 
 # References
 SoccerNet - Re-Identification (soccer-net.org)
